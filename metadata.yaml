@@ -1,4 +1,8 @@
 _repo: Love-Letters-Between-a-Nobleman-and-His-Sister_8409
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Behn, Aphra
@@ -25,6 +29,8 @@ description: "Love-Letters Between a Nobleman and His Sister by Aphra Behn is a 
   \ Silvia (1687).\n^ Pollak, Ellen (2003). Incest & The English Novel, 1684-1814.\
   \ Baltimore, Maryland: The Johns Hopkins University Press. p. 59. ISBN 0801872049.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8409#Love-Letters-Between-a-Nobleman-and-His-Sister
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
 identifiers:
